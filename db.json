@@ -1,15 +1,26 @@
 {
   "projects": [
     {
-      "name": "Michael",
-      "budget": "150",
+      "name": "JOao",
+      "budget": "1520",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "michael",
+      "budget": "1500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
